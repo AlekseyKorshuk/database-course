@@ -10,4 +10,4 @@
 
 The diagram is available via [link](https://miro.com/app/board/uXjVOF_-eBc=/?invite_link_id=685152090843).
 
-![Image](https://i.postimg.cc/FsRwNt3M/Lab-1-1.png)
+![Image](https://i.postimg.cc/76Cd0dnC/Screenshot-2022-03-14-at-16-24-09.png)
