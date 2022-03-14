@@ -1,7 +1,9 @@
-# database-course
+# Database course
 
-Aliaksei Korshuk
+## About
 
-BS20-06
+* [Aliaksei Korshuk](https://github.com/AlekseyKorshuk)
 
-a.korshuk@innopolis.university
+* a.korshuk@innopolis.university
+
+* BS20-06
