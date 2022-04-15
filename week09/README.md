@@ -88,9 +88,10 @@ language plpgsql;
 ```sql
 SELECT * FROM retrieve_customers(10, 15);
 ```
-![](Screenshot 2022-04-17 at 13.25.57.png)
+![](./Screenshot 2022-04-17 at 13.25.57.png)
 ___
 ```sql
 SELECT * FROM retrieve_customers(-10, 15);
 ```
-![](Screenshot 2022-04-17 at 13.27.32.png)
+![](./Screenshot 2022-04-17 at 13.27.32.png)
+
