@@ -6,16 +6,13 @@
 
 ![](ex01.jpg)
 
-# Task 2
-
 [ex02.sql](./ex02.sql)
-![](ex02.jpg)
 
-# Task 3
+![](ex02.jpg)
 
 [ex03.sql](./ex03.sql)
 
-# Task 4.1
+# Task 2
 
 [ex04_prepopulate.sql](./ex04_prepopulate.sql)
 
@@ -31,8 +28,6 @@ this changes will be committed (just SELECT will not see any changes here).
 ![](ex04_task1_read_committed_2.jpg)
 
 ![](ex04_task1_repeatable_read_2.jpg)
-
-# Task 4.2
 
 1st output: No since the fact we didn't commit the second transactions. Read committed protects from dirty read
 
