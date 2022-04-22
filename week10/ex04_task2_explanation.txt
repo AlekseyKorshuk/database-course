@@ -1,0 +1,3 @@
+1st output: No since the fact we didn't commit the second transactions. Read committed protects from dirty read
+
+2nd output: REPEATABLE READ prevents from getting the same result set (I mean rows) but with different data inside of it (Non repeatable read). So the first transaction would work with modified data, which is prohibited at this isolation level. I suppose, if we would use snapshots at the start of the transaction, we would leave ACID durability principle (We would just lose changes after commit both transactions).
